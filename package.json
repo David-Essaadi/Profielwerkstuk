@@ -1,0 +1,10 @@
+{
+  "name": "nodepokerserver",
+  "version": "0.0.0",
+  "description": "nodepokerserver",
+  "main": "server.js",
+  "author": {
+    "name": "David",
+    "email": ""
+  }
+}
